@@ -1,0 +1,7 @@
+*.dll
+*.cache
+
+*bin
+*Debug
+*csproj
+*obj
